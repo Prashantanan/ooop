@@ -1,0 +1,20 @@
+.container-fluid{
+    
+background-image: url("prk.jpg");
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+.rohit {
+    background-image: url("nri2.jpeg");
+    background-repeat: ;
+    background-size: cover;
+
+}
+.footer{
+    color: rgb(255, 0, 0);
+}
